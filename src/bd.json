@@ -1,39 +1,53 @@
 {
   "cubes": [
     {
-        "id":1,
+      "id": 1,
       "name": "asasas",
       "description": "sdsdsdsd",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Rubik%27s_cube.svg/983px-Rubik%27s_cube.svg.png",
       "difficultyLevel": "1"
     },
     {
-        "id":2,
+      "id": 2,
       "name": "jjjjjjjjjj",
       "description": "sdsdsdsd",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Rubik%27s_cube.svg/983px-Rubik%27s_cube.svg.png",
       "difficultyLevel": "1"
     },
     {
-        "id":3,
+      "id": 3,
       "name": "kkkkkkkkkkk",
       "description": "sdsdsdsd",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Rubik%27s_cube.svg/983px-Rubik%27s_cube.svg.png",
       "difficultyLevel": "1"
     },
     {
-        "id":4,
+      "id": 4,
       "name": "wewef",
       "description": "wefwef",
       "imageUrl": "https://s13emagst.akamaized.net/products/3379/3378328/images/res_8474dff5f72237b93078cbed965c2526.jpg",
       "difficultyLevel": "5"
     },
     {
-        "id":5,
+      "id": 5,
       "name": "hard",
       "description": "adafsgfasgs",
       "imageUrl": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/412145/12860937_800.jpg",
       "difficultyLevel": "1"
+    },
+    {
+      "name": "mirror cube",
+      "description": "easy",
+      "imageUrl": "https://mastercubestore.com/7603-Coolshop_Size/gan-mirror-cube-magnetic-purple.jpg",
+      "difficultyLevel": "3",
+      "id": 6
+    },
+    {
+      "name": "v-cube",
+      "description": "sfsdf",
+      "imageUrl": "https://s13emagst.akamaized.net/products/3379/3378346/images/res_787bdff477514b532e2f20748fb90e71.jpg",
+      "difficultyLevel": "4",
+      "id": 7
     }
   ]
 }
