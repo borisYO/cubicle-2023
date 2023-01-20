@@ -9,6 +9,7 @@ const setupViewEngine = require('./config/viewEngine')
 setupViewEngine(app)
 
 app.use(express.static('src/static'))//css
+app.use(express.urlencoded({extended:false})) // za /create -1-
 app.use(routes)
 
 
