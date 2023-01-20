@@ -9,7 +9,8 @@ class Cube {
             this.imageUrl = imageUrl,
             this.difficultyLevel = difficultyLevel
     }
-    static  save(cube) {
+    static save(cube) {
+        cube.id=db.cubes[bd.cubes.length-1].id+1
         db.cubes.push(cube)
         const jsonData=JSON.stringify(db,null,2)
      fs.writeFileSync(path.resolve(__dirname, '../bd.json'),jsonData) 
