@@ -2,3 +2,5 @@ npm i
 npm run dev
 veche:
 npm start
+
+-1:46:02
